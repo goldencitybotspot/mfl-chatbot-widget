@@ -1,0 +1,153 @@
+{
+  "assistantName": "Manna for Life Assistant",
+  "ministryName": "Manna for Life Learning Center",
+  "contactEmail": "curtis@manna-for-life.com",
+  "systemPrompt": "You are 'Manna for Life Assistant,' a friendly, Scripture-honoring helper for the Manna for Life Learning Center (WordPress + LearnPress). Tone: personal, encouraging, clear, never harsh. Capabilities: - Guide visitors to courses and enrollment pages. - Intake prayer requests gently; NCV when quoting Scripture. - Answer donations/receipts FAQs. - Hand off to a person (Contact page or curtis@manna-for-life.com). - Keep replies concise: 3–6 sentences. If unsure, say so and suggest next step. If a user asks for Scripture on a topic, check the verse library and return exactly 5 short NCV verses as a numbered list.",
+  "topicKeywords": {
+    "depression": [
+      "depression",
+      "depressed",
+      "sad",
+      "hopeless",
+      "downcast",
+      "lonely"
+    ],
+    "fear": [
+      "fear",
+      "afraid",
+      "scared",
+      "terrified",
+      "worry"
+    ],
+    "healing": [
+      "healing",
+      "sick",
+      "illness",
+      "disease",
+      "pain",
+      "injury"
+    ],
+    "finances": [
+      "finances",
+      "money",
+      "bills",
+      "provision",
+      "job",
+      "income"
+    ],
+    "courage": [
+      "courage",
+      "brave",
+      "strength",
+      "bold",
+      "confidence"
+    ],
+    "forgiveness": [
+      "forgive",
+      "forgiveness",
+      "pardon",
+      "release",
+      "mercy"
+    ],
+    "love": [
+      "love",
+      "care",
+      "compassion",
+      "kindness",
+      "unity"
+    ],
+    "salvation": [
+      "salvation",
+      "saved",
+      "eternal life",
+      "born again",
+      "redeemed"
+    ],
+    "anxiety": [
+      "anxiety",
+      "anxious",
+      "worry",
+      "panic",
+      "stressed"
+    ],
+    "provision": [
+      "provision",
+      "supply",
+      "need",
+      "resources",
+      "bread"
+    ]
+  },
+  "topicVerses": {
+    "depression": [
+      "Psalm 34:17–18 — The Lord hears good people when they cry out...",
+      "Isaiah 41:10 — So don’t worry, because I am with you...",
+      "Matthew 11:28 — Come to me, all of you who are tired...",
+      "2 Corinthians 1:3–4 — He comforts us every time we have trouble...",
+      "Philippians 4:6–7 — Do not worry about anything, but pray and ask God..."
+    ],
+    "fear": [
+      "Joshua 1:9 — Remember that I commanded you to be strong and brave...",
+      "Isaiah 41:10 — So don’t worry, because I am with you...",
+      "Psalm 27:1 — The Lord is my light and the one who saves me...",
+      "2 Timothy 1:7 — God did not give us a spirit that makes us afraid...",
+      "Psalm 56:3 — When I am afraid, I will trust you."
+    ],
+    "healing": [
+      "Isaiah 53:5 — But he was wounded for the wrong we did...",
+      "1 Peter 2:24 — Christ carried our sins in his body on the cross...",
+      "Matthew 8:17 — He took our suffering on him and carried our diseases...",
+      "James 5:15 — The prayer given in faith will heal the sick...",
+      "Psalm 103:3 — He forgives all my sins and heals all my diseases."
+    ],
+    "finances": [
+      "Philippians 4:19 — My God will use his wonderful riches...",
+      "Matthew 6:33 — Seek first God’s kingdom and what God wants...",
+      "2 Corinthians 9:8 — And God can give you more blessings than you need...",
+      "Psalm 37:25 — I was young and now I am old, but I have never seen good people left helpless...",
+      "Malachi 3:10 — Bring to the storehouse a tenth of what you gain..."
+    ],
+    "courage": [
+      "Deuteronomy 31:6 — Be strong and brave. Don’t be afraid...",
+      "Joshua 1:9 — Remember that I commanded you to be strong and brave...",
+      "1 Corinthians 16:13 — Be alert. Continue strong in the faith...",
+      "Psalm 31:24 — Be strong and brave, all you who hope in the Lord.",
+      "John 16:33 — In this world you will have troubles, but be brave!..."
+    ],
+    "forgiveness": [
+      "Matthew 6:14 — Yes, if you forgive others for their sins, your Father in heaven will also forgive you.",
+      "Colossians 3:13 — Forgive each other because the Lord forgave you.",
+      "Ephesians 4:32 — Be kind and loving to each other, and forgive each other...",
+      "Psalm 103:12 — He has taken our sins away from us as far as the east is from west.",
+      "1 John 1:9 — If we confess our sins, he will forgive our sins..."
+    ],
+    "love": [
+      "John 13:34 — I give you a new command: Love each other...",
+      "1 Corinthians 13:4–5 — Love is patient and kind...",
+      "Romans 5:8 — But God shows his great love for us in this way...",
+      "1 John 4:7 — Dear friends, we should love each other...",
+      "Colossians 3:14 — Love is what holds you all together in perfect unity."
+    ],
+    "salvation": [
+      "John 3:16 — God loved the world so much that he gave his one and only Son...",
+      "Romans 10:9 — If you declare with your mouth, 'Jesus is Lord'...",
+      "Ephesians 2:8–9 — I mean that you have been saved by grace through believing...",
+      "Acts 4:12 — Jesus is the only One who can save people...",
+      "Titus 3:5 — He saved us, not because of the good things we did..."
+    ],
+    "anxiety": [
+      "Philippians 4:6 — Do not worry about anything, but pray and ask God...",
+      "1 Peter 5:7 — Give all your worries to him, because he cares about you.",
+      "Matthew 6:34 — So don’t worry about tomorrow...",
+      "John 14:27 — I leave you peace; my peace I give you...",
+      "Psalm 94:19 — I was very worried, but you comforted me and made me happy."
+    ],
+    "provision": [
+      "Philippians 4:19 — My God will use his wonderful riches...",
+      "Matthew 7:11 — Even though you are bad, you know how to give good things to your children...",
+      "Psalm 23:1 — The Lord is my shepherd; I have everything I need.",
+      "2 Corinthians 9:10 — God, who supplies seed for the planter and bread for food...",
+      "Deuteronomy 28:12 — The Lord will open his storehouse, the skies..."
+    ]
+  }
+}
